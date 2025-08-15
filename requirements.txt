@@ -1,0 +1,31 @@
+# Core dependencies for genai project
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+ipywidgets>=8.0.0
+
+# UI/Interface frameworks
+gradio>=5.0.0
+# Note: If installing in corporate network, use: pip install --index-url https://pypi.org/simple/ gradio
+
+# Hugging Face ecosystem
+# transformers>=4.0.0
+# datasets>=2.0.0
+# accelerate>=0.20.0
+
+# PyTorch (uncomment when needed)
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+
+# Data science basics (uncomment when needed)
+# numpy>=1.21.0
+# pandas>=1.3.0
+# matplotlib>=3.5.0
+# seaborn>=0.11.0
+# scikit-learn>=1.0.0
+
+# Development tools
+# black
+# flake8
+# pytest
